@@ -92,11 +92,17 @@ scikit-learn
 
 Prakhar Gupta
 B.Tech CSE | Lovely Professional University
+
 🎓 Summer Training | Flames'25 – Angaar Batch
+
 🧑‍🏫 Mentor: Ms. Gaurika Dhingra Mam
+
 📧 Email: prakhargupta00123456@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/prakhar-gupta-366449280/
 
 ⭐ Support
+
 If you liked this project, don’t forget to give it a ⭐ on GitHub!
+
 Your support means a lot and encourages me to keep building and learning.
