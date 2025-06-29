@@ -1,5 +1,6 @@
 # Titanic-Data-Analysis---Flames-25---Summer-Training
-🚢 Titanic Survival Analysis & Classification – EDA + KNN + Decision Tree
+🚢 Titanic Survival Analysis & Classification – EDA + KNN + Decision Tree.
+
 This project is developed as a part of my Summer Training under the guidance of Ms. Gaurika Dhingra Mam on the Flames'25 platform, as a proud member of the Angaar Batch. The goal of this project is to explore, analyze, and predict passenger survival on the Titanic using Python, including Exploratory Data Analysis (EDA) and two Machine Learning models – K-Nearest Neighbors (KNN) and Decision Tree Classifier.
 
 📁 Dataset
